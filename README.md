@@ -1,5 +1,5 @@
-# Bruh.io-Custom
-An original modification of the game https://bruh.io/ and http://surviv.io/. 
+# Custom version of Bruh.io
+An original modification of the game https://bruh.io/ and http://surviv.io/ together. 
 
 To-Do:
   1. Bots are moving randomly -> follow up with bots with path-planning algorithms(e.g. A*), Reinforcement Learning(probably will not converge...) and genetic algorithms. 
